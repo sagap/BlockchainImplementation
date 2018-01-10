@@ -1,2 +1,8 @@
-# BlockchainImplementation
-Implementation of Blockchain (Sybil attacks resistance protocol)
+# blockchainSybilAttackResistance
+
+
+Contributors:
+
+Stylianos Agapiou
+Melchior Thambipillai (https://github.com/mthambipillai)
+
